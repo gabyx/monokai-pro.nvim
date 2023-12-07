@@ -5,7 +5,7 @@ return {
   text = "#fcfcfa",
   accent1 = "#ff4775",
   accent2 = "#fc9867",
-  accent3 = "#ffd866",
+  accent3 = "#ffd352",
   accent4 = "#4cd1e1",
   accent5 = "#78dce8",
   accent6 = "#ab9df2",
