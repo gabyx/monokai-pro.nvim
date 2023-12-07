@@ -5,9 +5,9 @@ return {
   text = "#fcfcfa",
   accent1 = "#ff6188",
   accent2 = "#fc9867",
-  accent5 = "#ffcf42",
+  accent3 = "#ffcf42",
   accent4 = "#99db57",
-  accent3 = "#78dce8",
+  accent5 = "#78dce8",
   accent6 = "#ab9df2",
   dimmed1 = "#c1c0c0",
   dimmed2 = "#939293", -- border
