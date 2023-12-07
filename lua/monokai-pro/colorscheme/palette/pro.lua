@@ -4,7 +4,7 @@ return {
   background = "#2d2a2e",
   text = "#fcfcfa",
   accent1 = "#ffdb3d",
-  accent2 = "#fc9867",
+  accent2 = "#fc8c55",
   accent3 = "#ffd866",
   accent4 = "#4cd1e1",
   accent5 = "#489be0",
