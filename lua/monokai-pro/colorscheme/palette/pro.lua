@@ -6,8 +6,8 @@ return {
   accent1 = "#d8db00",
   accent2 = "#fc8850",
   accent3 = "#fcff47",
-  accent4 = "#727ee9",
-  accent5 = "#78dce8",
+  accent4 = "#78dce8",
+  accent5 = "#727ee9",
   accent6 = "#ab9df2",
   dimmed1 = "#c1c0c0",
   dimmed2 = "#939293", -- border
